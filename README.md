@@ -7,4 +7,4 @@ should do or not do about it. In layman terms, this is a BMI
 (Body Mass Index) calculator that has the touch of a unique
 user-interface resulting in the users getting to know more
 about their own health in less than a minute with this quick
-and user-friendly application.
+and user-friendly application. This utilizes my object-oriented programming knowledge and skills through Java.
